@@ -1,0 +1,35 @@
+const employees = [
+    { name: "Aarav Sharma", salary: 850000, company: "Infosys", age: 27 },
+    { name: "Priya Verma", salary: 620000, company: "TCS", age: 24 },
+    { name: "Rohan Mehta", salary: 980000, company: "Google", age: 30 },
+    { name: "Ananya Gupta", salary: 575000, company: "Wipro", age: 26 },
+    { name: "Karan Malhotra", salary: 1200000, company: "Amazon", age: 29 },
+    { name: "Neha Kapoor", salary: 690000, company: "Cognizant", age: 25 },
+    { name: "Vikram Joshi", salary: 750000, company: "Accenture", age: 28 },
+    { name: "Sanya Arora", salary: 810000, company: "Microsoft", age: 27 },
+    { name: "Rajesh Yadav", salary: 540000, company: "IBM", age: 23 },
+    { name: "Pooja Saxena", salary: 880000, company: "Google", age: 30 },
+    { name: "Arjun Nair", salary: 950000, company: "Flipkart", age: 31 },
+    { name: "Sneha Mishra", salary: 720000, company: "TCS", age: 26 },
+    { name: "Harshit Reddy", salary: 1020000, company: "Oracle", age: 32 },
+    { name: "Ishita Bansal", salary: 600000, company: "Infosys", age: 24 },
+    { name: "Rahul Khanna", salary: 670000, company: "Tech Mahindra", age: 25 },
+    // { name: "Swati Choudhary", salary: 730000, company: "Capgemini", age: 27 },
+    // { name: "Manish Sinha", salary: 1200000, company: "Microsoft", age: 29 },
+    // { name: "Aditi Jain", salary: 780000, company: "Amazon", age: 28 },
+    // { name: "Siddharth Patel", salary: 860000, company: "Adobe", age: 30 },
+    // { name: "Tanya Roy", salary: 920000, company: "Facebook", age: 31 },
+    // { name: "Ravi Kumar", salary: 570000, company: "HCL", age: 23 },
+    // { name: "Meera D'Souza", salary: 650000, company: "TCS", age: 25 },
+    // { name: "Nikhil Thakur", salary: 890000, company: "Paytm", age: 29 },
+    // { name: "Kavita Desai", salary: 730000, company: "Flipkart", age: 27 },
+    // { name: "Suresh Iyer", salary: 940000, company: "Wipro", age: 30 },
+    // { name: "Juhi Pandey", salary: 780000, company: "Google", age: 28 },
+    // { name: "Varun Chopra", salary: 870000, company: "Uber", age: 31 },
+    // { name: "Shweta Goyal", salary: 690000, company: "Zoho", age: 26 },
+    // { name: "Tarun Saxena", salary: 980000, company: "Microsoft", age: 29 },
+    // { name: "Pankaj Sharma", salary: 1050000, company: "Apple", age: 32 }
+  ];
+  
+  export default employees;
+  
